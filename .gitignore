@@ -1,0 +1,25 @@
+# Compiled applications and release packages
+/dist/
+/build/
+/release/
+/releases/
+*.exe
+*.dll
+*.zip
+*.7z
+*.tar.gz
+*.pdb
+
+# Go test outputs
+*.test
+coverage.out
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# The checked-in .syso file is an intentional Windows build resource.
